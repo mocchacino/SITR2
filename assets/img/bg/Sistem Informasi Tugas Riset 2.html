@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<!-- saved from url=(0067)http://localhost/kimia2/dashboard/mahasiswa/hasil_uji_kelayakan.php -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem Informasi Tugas Riset 2</title>
+	<!-- BOOTSTRAP STYLES-->
+    <link href="./Sistem Informasi Tugas Riset 2_files/bootstrap.css" rel="stylesheet">
+     <!-- FONTAWESOME STYLES-->
+    <link href="./Sistem Informasi Tugas Riset 2_files/font-awesome.css" rel="stylesheet">
+    <!-- CUSTOM STYLES-->
+    <link href="./Sistem Informasi Tugas Riset 2_files/custom.css" rel="stylesheet">
+   
+   <script type="text/javascript" src="./Sistem Informasi Tugas Riset 2_files/jquery-3.3.1.min.js.download"></script>
+	<link href="./Sistem Informasi Tugas Riset 2_files/jquery.dataTables.min.css" rel="stylesheet">
+	<script type="text/javascript" src="./Sistem Informasi Tugas Riset 2_files/jquery.dataTables.min.js.download"></script>
+							
+</head>
+<body>
+    <div id="wrapper">
+		<nav class="navbar navbar-default navbar-cls-top " role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://localhost/kimia2/dashboard/index.php">SITR2</a> 
+            </div>
+			<div style="color: white; padding: 15px 50px 5px 50px; float: right; font-size: 16px;">
+				<a style="color:#fff; font-size:12px;"><i class="fa fa-user"></i>wiladhianty </a>&nbsp;&nbsp;
+				<a style="text-decoration: none; color:#fff; font-size:12px;">  ( Fri, 2018-12-14 10:32am )&nbsp;&nbsp;				</a>
+				<a href="http://localhost/kimia2/dashboard/login/logout.php" class="btn btn-danger square-btn-adjust">Logout</a>
+			</div>
+        </nav>   
+        <!-- /. NAV TOP  -->
+        <nav class="navbar-default navbar-side" role="navigation">
+            <div class="sidebar-collapse">
+                <ul class="nav" id="main-menu">
+				<li class="text-center">
+					<img src="./Sistem Informasi Tugas Riset 2_files/lambang_undip.png" class="user-image img-responsive">
+				</li>
+				<li>
+					<a class="active-menu" href="http://localhost/kimia2/dashboard/mahasiswa/index.php"><i class="fa fa-dashboard "></i> Dashboard</a>
+				</li>
+				<li>
+						<a href="http://localhost/kimia2/dashboard/mahasiswa/hasil_uji_kelayakan.php#"><i class="fa fa-calendar"></i>Jadwal Seminar/ Sidang<span class="fa arrow"></span></a>
+						<ul class="nav nav-second-level collapse">
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/jadwal_uji_kelayakan.php">Seminar Uji Kelayakan</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/jadwal_skripsi.php">Sidang Tugas Akhir</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="http://localhost/kimia2/dashboard/mahasiswa/hasil_uji_kelayakan.php#"><i class="fa fa-file"></i>Tugas Riset 2<span class="fa arrow"></span></a>
+						<ul class="nav nav-second-level collapse">
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/pendaftaran_tr2.php">Pendaftaran Tugas Riset 2</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/daftar_tr2.php">Daftar Mahasiswa Tugas Riset 2</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="http://localhost/kimia2/dashboard/mahasiswa/hasil_uji_kelayakan.php#"><i class="fa fa-flask"></i>Uji Kelayakan<span class="fa arrow"></span></a>
+						<ul class="nav nav-second-level collapse">
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/pendaftaran_uji_kelayakan.php">Pendaftaran Uji Kelayakan</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/daftar_uji_kelayakan.php">Daftar Mahasiswa Uji Kelayakan</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/surat_undangan_uji_kelayakan.php">Print Surat Undangan Uji Kelayakan</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/hasil_uji_kelayakan.php">Keterangan Uji Kelayakan</a></li>
+							
+						</ul>
+					</li>
+					<li>
+						<a href="http://localhost/kimia2/dashboard/mahasiswa/hasil_uji_kelayakan.php#"><i class="fa fa-book"></i>Skripsi<span class="fa arrow"></span></a>
+						<ul class="nav nav-second-level collapse">
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/pendaftaran_skripsi.php">Pendaftaran Skripsi</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/daftar_skripsi.php">Daftar Mahasiswa Skripsi</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/surat_ujian_skripsi.php">Surat ujian Skripsi</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/hasil_uji_skripsi.php">Keterangan Ujian Tugas Akhir</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="http://localhost/kimia2/dashboard/mahasiswa/hasil_uji_kelayakan.php#"><i class="fa fa-folder-open"></i>Pasca-Skripsi<span class="fa arrow"></span></a>
+						<ul class="nav nav-second-level collapse">
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/permohonan_pengantar.php">Permohonan Pengantar</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/skl.php">Surat Keterangan Lulus</a></li>
+							<li><a href="http://localhost/kimia2/dashboard/mahasiswa/eksemplar_tanda_terima_skripsi.php">Tanda Terima Penyerahan Skripsi</a></li>	
+						</ul>
+					</li>				
+				
+				
+				
+					<!-- <li>
+                        <a  href="http://localhost/sip/index.php#about"><i class="fa fa-square-o fa-2x"></i> About</a>
+					</li>	 -->
+                </ul>
+            </div>
+        </nav>  
+        <!-- /. NAV SIDE  -->
+        <div id="page-wrapper">
+            <div id="page-inner"> 	
+
+
+	<title>Jadwal dan Penguji Kelayakan</title>	
+	<style>
+		input#keterangan   {
+			width: 100%;
+			height: 100px;
+		    padding: 12px 20px;
+		    margin: 8px 0;
+		    box-sizing: border-box;
+		    border: none;
+		    background-color: #2ECC71;
+		    color: white;
+		    text-align: center;
+		}
+		input#keteranganGagal   {
+			width: 100%;
+			height: 100px;
+		    padding: 12px 20px;
+		    margin: 8px 0;
+		    box-sizing: border-box;
+		    border: none;
+		    background-color: #E74C3C;
+		    color: white;
+		    text-align: center;
+		}
+	</style>
+	<script src="./Sistem Informasi Tugas Riset 2_files/jquery-3.3.1.min.js.download"></script>
+	
+
+
+<div class="row">
+	<div class="col-md-12 col-sm-12 col-xs-12">
+		<!-- Form Elements -->
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				Hasil dari Uji Kelayakan
+			</div>
+			<div class="panel-body">
+				<div class="row">
+					<div class="col-md-12">
+						<form>
+							<div class="form-group">
+								<label>Tanggal Ujian</label>&nbsp;
+								<input class="form-control" type="text" id="jadwal" name="jadwal" value="2018-12-29 01:01:00" readonly="">
+							</div>
+							<div class="form-group">
+								<label>NIM</label>
+								<input class="form-control" type="text" id="nim" name="nim" readonly="" value="24010314120014">
+							</div>
+							<div class="form-group">
+								<label>Nama</label>&nbsp;
+								<input class="form-control" type="text" id="nama" name="nama" value="wiladhianty" readonly="">
+							</div>
+							<div class="form-group">
+								<label>Judul</label>&nbsp;
+								<input class="form-control" type="text" id="judul" name="judul" value="artificial intellegence" readonly="">
+							</div>
+							<div class="form-group">
+								<label>Penguji</label>&nbsp;
+								<input class="form-control" type="text" id="judul" name="judul" value="Kath Klesse&lt;br /&gt;
+Marleen Gavin&lt;br /&gt;
+" readonly="">
+							</div>
+							<br>
+							<br>
+							<div class="form-group">
+							<input class="form-control" type="text" id="keteranganGagal" name="keterangan" readonly="" value="Hasil belum tersedia">							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+			</div>
+             <!-- /. PAGE INNER  -->
+            </div>
+         <!-- /. PAGE WRAPPER  -->
+    </div>
+    <!-- /. WRAPPER  -->
+    <!-- SCRIPTS -AT THE BOTOM TO REDUCE THE LOAD TIME-->
+    <!-- BOOTSTRAP SCRIPTS -->
+    <script src="./Sistem Informasi Tugas Riset 2_files/bootstrap.min.js.download"></script>
+    <!-- METISMENU SCRIPTS -->
+    <script src="./Sistem Informasi Tugas Riset 2_files/jquery.metisMenu.js.download"></script>
+    <!-- CUSTOM SCRIPTS -->
+    <script src="./Sistem Informasi Tugas Riset 2_files/custom.js.download"></script>
+
+</body></html>

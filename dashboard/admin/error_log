@@ -1,0 +1,840 @@
+[20-Feb-2019 12:09:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/4e3ac4cbc1b9cb51599e4012b245954c.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 291
+[20-Feb-2019 12:09:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxvOOPT' to '../transkrip_tr2/4e3ac4cbc1b9cb51599e4012b245954c.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 291
+[20-Feb-2019 12:09:17 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 12:09:17 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[20-Feb-2019 12:09:17 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 302
+[20-Feb-2019 12:10:19 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/e8a590cfe549388e7a132e26a713237d.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:10:19 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpf9zDy1' to '../transkrip_tr2/e8a590cfe549388e7a132e26a713237d.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:10:19 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:10:19 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:10:19 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:10:38 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/52203239233a3ec93af31a680df8ffff.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:10:38 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOWduTI' to '../transkrip_tr2/52203239233a3ec93af31a680df8ffff.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:10:38 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:10:38 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:10:38 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:10:38 Asia/Jakarta] PHP Notice:  Undefined variable: validPembimbing in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:10:49 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/ae1e1117d2226f20268ec5c4f4c9e02a.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:10:49 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgb7GCO' to '../transkrip_tr2/ae1e1117d2226f20268ec5c4f4c9e02a.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:10:49 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:10:49 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:10:49 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:11:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/1b9b776711040e33ebf318a99d99b343.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpA8QELt' to '../transkrip_tr2/1b9b776711040e33ebf318a99d99b343.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:05 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:11:05 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:11:05 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:11:12 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/5e2c15362797fd73b56c6209c17d52a3.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:12 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpB94iev' to '../transkrip_tr2/5e2c15362797fd73b56c6209c17d52a3.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:12 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:11:12 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:11:12 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:11:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/65f214453cae4171fa53b0f663543fbe.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkgJvLt' to '../transkrip_tr2/65f214453cae4171fa53b0f663543fbe.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:21 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:11:21 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:11:21 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:11:30 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/ea1aa6052fb6d45490abd9144180bfd0.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:30 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsly22r' to '../transkrip_tr2/ea1aa6052fb6d45490abd9144180bfd0.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:30 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:11:30 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:11:30 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:11:37 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/5154eb09b0a28c6ca9026bbb4315b5b5.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:37 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9X6uwj' to '../transkrip_tr2/5154eb09b0a28c6ca9026bbb4315b5b5.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:37 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:11:37 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:11:37 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:11:48 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/6ee014ee25b6deb64603ebed70e42523.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:48 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsi62Md' to '../transkrip_tr2/6ee014ee25b6deb64603ebed70e42523.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:11:48 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:11:48 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:11:48 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:12:08 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/37da586492daca980e90edf0537e7435.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:12:08 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUUV4cw' to '../transkrip_tr2/37da586492daca980e90edf0537e7435.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:12:08 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:12:08 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:12:08 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:12:22 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/bde5377715f0c882ad1dcfaa1be53bd5.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:12:22 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppVcgTN' to '../transkrip_tr2/bde5377715f0c882ad1dcfaa1be53bd5.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:12:22 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:12:22 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:12:22 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:13:01 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/7473ad776f3984b0c2b95e40f6b35fbe.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:13:01 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptRLZeQ' to '../transkrip_tr2/7473ad776f3984b0c2b95e40f6b35fbe.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:13:01 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:13:01 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:13:01 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:13:20 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/55326fd83701a2b68474217829fb2eae.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:13:20 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpziuUwm' to '../transkrip_tr2/55326fd83701a2b68474217829fb2eae.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:13:20 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:13:20 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:13:20 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:14:06 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:14:41 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:16:40 Asia/Jakarta] PHP Notice:  Undefined variable: errorTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:16:43 Asia/Jakarta] PHP Notice:  Undefined variable: errorTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:19:36 Asia/Jakarta] PHP Notice:  Undefined variable: errorTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:19:37 Asia/Jakarta] PHP Notice:  Undefined index: file in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:19:44 Asia/Jakarta] PHP Notice:  Undefined index: file in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:19:47 Asia/Jakarta] PHP Notice:  Undefined index: file in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:19:49 Asia/Jakarta] PHP Notice:  Undefined index: file in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 325
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 360
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 426
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 430
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 434
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 438
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 442
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 446
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 446
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 453
+[20-Feb-2019 12:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 453
+[20-Feb-2019 12:20:18 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/fdda54ed23191a5e482963e9715fd6d2.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:20:18 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXb387P' to '../transkrip_tr2/fdda54ed23191a5e482963e9715fd6d2.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:20:18 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:20:18 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:20:18 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:20:53 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/5079a590bd4a971021bea63d6117f202.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:20:53 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNbgGt3' to '../transkrip_tr2/5079a590bd4a971021bea63d6117f202.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:20:53 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:20:53 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:20:53 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:22:06 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/5f235980d589834b1981cfc1f31267ad.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:22:06 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbWGQjc' to '../transkrip_tr2/5f235980d589834b1981cfc1f31267ad.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:22:06 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:22:06 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:22:06 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:24:15 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/4ad11700cc10face579b1eddfc229900.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:24:15 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpyqoa2U' to '../transkrip_tr2/4ad11700cc10face579b1eddfc229900.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:24:15 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 12:24:15 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:24:15 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:24:15 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:27:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/9cb73721284f0ada0f14b8d0f9680080.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:27:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBv36a8' to '../transkrip_tr2/9cb73721284f0ada0f14b8d0f9680080.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:27:10 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 12:27:10 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[20-Feb-2019 12:27:10 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 302
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 358
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 424
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 428
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 432
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 436
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 440
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 444
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 444
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 451
+[20-Feb-2019 12:28:48 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 451
+[20-Feb-2019 12:30:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/385486bc9c283e99464821751b3c24cb.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:30:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplQ3uRz' to '../transkrip_tr2/385486bc9c283e99464821751b3c24cb.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:30:10 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 295
+[20-Feb-2019 12:30:10 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 298
+[20-Feb-2019 12:30:10 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 301
+[20-Feb-2019 12:31:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/7cce21f52ce49dd14e40ee78670e47f9.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:31:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgU01Hm' to '../transkrip_tr2/7cce21f52ce49dd14e40ee78670e47f9.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:31:05 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 295
+[20-Feb-2019 12:31:05 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 298
+[20-Feb-2019 12:31:05 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 301
+[20-Feb-2019 12:31:27 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/a0ac78334a34b2dcde7a064c10ad947e.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:31:27 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVqNHI3' to '../transkrip_tr2/a0ac78334a34b2dcde7a064c10ad947e.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:31:27 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 295
+[20-Feb-2019 12:31:27 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 298
+[20-Feb-2019 12:31:27 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 301
+[20-Feb-2019 05:31:54 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 179
+[20-Feb-2019 05:31:59 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 179
+[20-Feb-2019 12:32:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/3978eaa2b75f9d4eee2c66df3ddb21b4.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 293
+[20-Feb-2019 12:32:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPYgp6x' to '../transkrip_tr2/3978eaa2b75f9d4eee2c66df3ddb21b4.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 293
+[20-Feb-2019 12:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 12:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[20-Feb-2019 12:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 302
+[20-Feb-2019 12:32:30 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/b11d55c77a9f5234e05985d8aa035248.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:32:30 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeCm2cO' to '../transkrip_tr2/b11d55c77a9f5234e05985d8aa035248.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 297
+[20-Feb-2019 12:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 300
+[20-Feb-2019 12:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:33:51 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/c98414c0ebb79e8aaa84374522d7eae7.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 293
+[20-Feb-2019 12:33:51 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpagMTTz' to '../transkrip_tr2/c98414c0ebb79e8aaa84374522d7eae7.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 293
+[20-Feb-2019 12:33:51 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 12:33:51 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[20-Feb-2019 12:33:51 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 302
+[20-Feb-2019 12:37:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/b291c12756fe55859a584e14b7c36946.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 293
+[20-Feb-2019 12:37:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeC7p7U' to '../transkrip_tr2/b291c12756fe55859a584e14b7c36946.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 293
+[20-Feb-2019 12:37:10 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 12:37:10 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[20-Feb-2019 12:37:10 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 302
+[20-Feb-2019 12:37:46 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/f241b764e30834c9078b56f310823626.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:37:46 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfe8FU4' to '../transkrip_tr2/f241b764e30834c9078b56f310823626.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:37:46 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 12:37:46 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[20-Feb-2019 12:37:46 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 302
+[20-Feb-2019 12:38:01 Asia/Jakarta] PHP Warning:  move_uploaded_file(../transkrip_tr2/1a4b4874962786da8fb13990e79a8c53.pdf): failed to open stream: Permission denied in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:38:01 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4oI6yq' to '../transkrip_tr2/1a4b4874962786da8fb13990e79a8c53.pdf' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 292
+[20-Feb-2019 12:38:01 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 12:38:01 Asia/Jakarta] PHP Notice:  Undefined variable: insert_pendaftar in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[20-Feb-2019 12:38:01 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 302
+[20-Feb-2019 12:40:04 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:40:04 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 302
+[20-Feb-2019 12:41:44 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:41:44 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:41:56 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:41:56 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:42:45 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:43:38 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:43:38 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 304
+[20-Feb-2019 12:44:19 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:44:19 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:44:33 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:44:33 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:44:35 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:44:35 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:45:11 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:45:11 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:45:12 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:45:12 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:45:45 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:45:45 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 303
+[20-Feb-2019 12:49:00 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 12:51:26 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 294
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 361
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 427
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 431
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 435
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 439
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 443
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 447
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 447
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 454
+[20-Feb-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 454
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[20-Feb-2019 13:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[20-Feb-2019 13:14:13 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 13:14:13 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 305
+[20-Feb-2019 13:14:48 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 13:14:48 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 305
+[20-Feb-2019 13:15:16 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 13:15:16 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 305
+[20-Feb-2019 13:15:37 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 13:16:28 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 13:16:29 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 13:17:25 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[20-Feb-2019 13:18:03 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[20-Feb-2019 13:18:24 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[20-Feb-2019 13:18:24 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[23-Feb-2019 15:43:33 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[23-Feb-2019 15:43:33 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[23-Feb-2019 18:53:13 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[23-Feb-2019 18:53:13 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[23-Feb-2019 19:33:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_skripsi.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_skripsi.php on line 176
+[23-Feb-2019 19:43:36 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_skripsi.php on line 176
+[23-Feb-2019 19:48:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_skripsi.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_skripsi.php on line 176
+[23-Feb-2019 12:53:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '{' or '$' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_skripsi.php on line 324
+[23-Feb-2019 20:11:38 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[23-Feb-2019 20:11:38 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 163
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 167
+[23-Feb-2019 20:30:02 Asia/Jakarta] PHP Notice:  Undefined index: nip2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_sarjana.php on line 173
+[23-Feb-2019 21:00:53 Asia/Jakarta] PHP Notice:  Undefined index: nip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[23-Feb-2019 21:00:53 Asia/Jakarta] PHP Notice:  Undefined index: nip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[23-Feb-2019 21:00:57 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[23-Feb-2019 21:00:57 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[23-Feb-2019 21:00:57 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[23-Feb-2019 21:00:57 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[23-Feb-2019 21:01:00 Asia/Jakarta] PHP Notice:  Undefined index: nip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[23-Feb-2019 21:01:00 Asia/Jakarta] PHP Notice:  Undefined index: nip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[23-Feb-2019 21:12:35 Asia/Jakarta] PHP Notice:  Undefined variable: nilai_pembimbing_skripsi1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 64
+[23-Feb-2019 21:12:35 Asia/Jakarta] PHP Notice:  Undefined variable: nilai_pembimbing_skripsi2 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 64
+[23-Feb-2019 21:32:05 Asia/Jakarta] PHP Notice:  Undefined variable: nilaiFloat4 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 84
+[23-Feb-2019 21:32:05 Asia/Jakarta] PHP Notice:  Undefined variable: nilaiFloat5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 84
+[23-Feb-2019 22:20:45 Asia/Jakarta] PHP Notice:  Undefined index: nilai_penguji_skripsi5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 32
+[23-Feb-2019 22:21:29 Asia/Jakarta] PHP Notice:  Undefined index: nilai_penguji_skripsi5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 32
+[23-Feb-2019 22:21:29 Asia/Jakarta] PHP Notice:  Undefined index: nilai_penguji_skripsi5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 42
+[23-Feb-2019 22:22:22 Asia/Jakarta] PHP Notice:  Undefined index: nilai_penguji_skripsi5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 32
+[23-Feb-2019 22:22:22 Asia/Jakarta] PHP Notice:  Undefined index: nilai_penguji_skripsi5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 42
+[23-Feb-2019 22:22:57 Asia/Jakarta] PHP Notice:  Undefined index: nilai_penguji_skripsi5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 32
+[23-Feb-2019 22:22:57 Asia/Jakarta] PHP Notice:  Undefined index: nilai_penguji_skripsi5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 42
+[23-Feb-2019 22:35:49 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/tampilkan_nilai_skripsi.php on line 80
+[23-Feb-2019 22:35:49 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/tampilkan_nilai_skripsi.php on line 88
+[23-Feb-2019 22:43:01 Asia/Jakarta] PHP Notice:  Undefined index: nilai_pembimbing_skripsi6 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 61
+[23-Feb-2019 22:43:01 Asia/Jakarta] PHP Notice:  Undefined variable: nilai_pembimbing_skripsi6 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 64
+[23-Feb-2019 22:43:01 Asia/Jakarta] PHP Notice:  Undefined index: nilai_pembimbing_skripsi7 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 61
+[23-Feb-2019 22:43:01 Asia/Jakarta] PHP Notice:  Undefined variable: nilai_pembimbing_skripsi7 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 64
+[23-Feb-2019 22:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: couonter in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 66
+[23-Feb-2019 22:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: nilaiFloat4 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 67
+[23-Feb-2019 22:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: nilaiFloat4 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 67
+[23-Feb-2019 22:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: couonter in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 66
+[23-Feb-2019 22:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: nilaiFloat5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 67
+[23-Feb-2019 22:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: nilaiFloat5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 67
+[23-Feb-2019 22:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: nilaiFloat4 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 83
+[23-Feb-2019 22:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: nilaiFloat5 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 83
+[23-Feb-2019 15:53:04 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 81
+[23-Feb-2019 15:53:10 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 81
+[23-Feb-2019 16:19:13 UTC] PHP Parse error:  syntax error, unexpected '$tambah_nilai' (T_VARIABLE) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_nilai_skripsi.php on line 88
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[23-Feb-2019 23:22:24 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[23-Feb-2019 23:28:13 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 287
+[23-Feb-2019 23:29:27 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 287
+[23-Feb-2019 23:30:27 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 287
+[23-Feb-2019 23:32:04 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 287
+[23-Feb-2019 23:35:21 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 287
+[05-Mar-2019 01:33:24 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[05-Mar-2019 01:33:24 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[05-Mar-2019 01:34:05 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[05-Mar-2019 01:34:05 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 446
+[04-Mar-2019 18:46:10 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:46:14 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:47:29 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:47:29 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:47:30 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:47:30 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:47:42 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:47:43 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:48:09 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:48:10 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:48:28 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[04-Mar-2019 18:48:29 UTC] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 484
+[05-Mar-2019 01:50:06 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 490
+[05-Mar-2019 01:50:06 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 490
+[05-Mar-2019 01:50:06 Asia/Jakarta] PHP Notice:  Undefined variable: validToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 494
+[05-Mar-2019 01:50:06 Asia/Jakarta] PHP Notice:  Undefined variable: mimeToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 494
+[05-Mar-2019 01:52:38 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 490
+[05-Mar-2019 01:52:38 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 490
+[05-Mar-2019 01:52:38 Asia/Jakarta] PHP Notice:  Undefined variable: validToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 494
+[05-Mar-2019 01:52:38 Asia/Jakarta] PHP Notice:  Undefined variable: mimeToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 494
+[04-Mar-2019 18:55:09 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/detail_mahasiswa_skripsi.php on line 37
+[05-Mar-2019 02:35:38 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 490
+[05-Mar-2019 02:35:38 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 490
+[05-Mar-2019 02:35:38 Asia/Jakarta] PHP Notice:  Undefined variable: validToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 494
+[05-Mar-2019 02:35:38 Asia/Jakarta] PHP Notice:  Undefined variable: mimeToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 494
+[05-Mar-2019 03:12:03 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 490
+[05-Mar-2019 03:12:03 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 490
+[05-Mar-2019 03:12:03 Asia/Jakarta] PHP Notice:  Undefined variable: validToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 494
+[05-Mar-2019 03:12:03 Asia/Jakarta] PHP Notice:  Undefined variable: mimeToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_mahasiswa_skripsi.php on line 494
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 60
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 122
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 164
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 194
+[09-Mar-2019 10:12:54 Asia/Jakarta] PHP Notice:  Undefined index: sip_status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/index.php on line 8
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:31:17 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:31:52 Asia/Jakarta] PHP Fatal error:  Call to undefined function finfo_open() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 201
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:32:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function finfo_open() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 201
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined index: toefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 22
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 259
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 279
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 283
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 287
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 291
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 295
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 295
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 307
+[09-Mar-2019 10:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 307
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:41:20 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:42:53 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: validNim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 363
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 433
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 437
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 441
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 445
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:46:04 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 456
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 430
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: validKomulatif in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 434
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: validSks in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 438
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: validSemester in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 442
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 446
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 450
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 450
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[09-Mar-2019 10:50:19 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[09-Mar-2019 10:51:40 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 430
+[09-Mar-2019 10:51:40 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 446
+[09-Mar-2019 10:51:40 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 450
+[09-Mar-2019 10:51:40 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 450
+[09-Mar-2019 10:51:40 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[09-Mar-2019 10:51:40 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[09-Mar-2019 10:52:00 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 430
+[09-Mar-2019 10:52:00 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 450
+[09-Mar-2019 10:52:00 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 450
+[09-Mar-2019 10:52:00 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[09-Mar-2019 10:52:00 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[09-Mar-2019 10:52:22 Asia/Jakarta] PHP Fatal error:  Call to undefined function finfo_open() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 202
+[09-Mar-2019 10:54:14 Asia/Jakarta] PHP Fatal error:  Call to undefined function finfo_open() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 201
+[09-Mar-2019 10:56:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function finfo_open() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 201
+[09-Mar-2019 10:56:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function finfo_open() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 201
+[09-Mar-2019 10:58:29 Asia/Jakarta] PHP Notice:  Undefined index: ipk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 112
+[09-Mar-2019 10:58:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function finfo_open() in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 162
+[09-Mar-2019 11:13:44 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[09-Mar-2019 11:13:44 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 11:13:44 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[09-Mar-2019 11:13:44 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[09-Mar-2019 11:13:44 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[11-Mar-2019 20:36:06 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[11-Mar-2019 20:36:06 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[11-Mar-2019 20:36:06 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[11-Mar-2019 20:36:06 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[11-Mar-2019 20:36:06 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[11-Mar-2019 20:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[11-Mar-2019 20:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[11-Mar-2019 20:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[11-Mar-2019 20:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[11-Mar-2019 20:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[11-Mar-2019 20:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[11-Mar-2019 21:36:29 Asia/Jakarta] PHP Notice:  Undefined index: nip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[11-Mar-2019 21:36:29 Asia/Jakarta] PHP Notice:  Undefined index: nip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 21:01:25 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[13-Mar-2019 21:01:25 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[13-Mar-2019 21:01:25 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[13-Mar-2019 21:01:25 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[13-Mar-2019 21:01:25 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[13-Mar-2019 21:36:20 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 123
+[13-Mar-2019 21:54:46 Asia/Jakarta] PHP Notice:  Undefined index: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/print_lab.php on line 10
+[13-Mar-2019 21:54:46 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/print_lab.php on line 11
+[13-Mar-2019 21:57:01 Asia/Jakarta] PHP Notice:  Undefined index: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/print_lab.php on line 10
+[13-Mar-2019 21:57:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/print_lab.php on line 11
+[13-Mar-2019 22:01:00 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_kelayakan.php on line 80
+[13-Mar-2019 22:01:14 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_kelayakan.php on line 80
+[13-Mar-2019 22:03:22 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_kelayakan.php on line 80
+[13-Mar-2019 22:03:36 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_kelayakan.php on line 80
+[13-Mar-2019 22:03:54 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_kelayakan_admin.php on line 80
+[13-Mar-2019 22:08:28 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_kelayakan.php on line 80
+[13-Mar-2019 22:15:52 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:15:52 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:15:52 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:15:52 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:15:57 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 123
+[13-Mar-2019 22:16:29 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 123
+[13-Mar-2019 22:16:31 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 123
+[13-Mar-2019 22:17:52 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 123
+[13-Mar-2019 22:17:53 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 123
+[13-Mar-2019 22:18:30 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:18:30 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:18:30 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:18:30 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:18:33 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 123
+[13-Mar-2019 22:20:45 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_kelayakan in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 47
+[13-Mar-2019 22:20:57 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:20:57 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:20:57 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:20:57 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:21:03 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_kelayakan in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 47
+[13-Mar-2019 22:22:08 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:22:08 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:22:08 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:22:08 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 43
+[13-Mar-2019 22:22:12 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_kelayakan in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 47
+[13-Mar-2019 22:22:33 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[13-Mar-2019 22:22:33 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[13-Mar-2019 22:22:33 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[13-Mar-2019 22:22:33 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[13-Mar-2019 22:22:33 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[13-Mar-2019 22:27:31 Asia/Jakarta] PHP Notice:  Undefined variable: nipPembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 296
+[13-Mar-2019 22:27:31 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[13-Mar-2019 22:31:50 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[13-Mar-2019 22:31:50 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[13-Mar-2019 22:31:50 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[13-Mar-2019 22:31:50 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[13-Mar-2019 22:31:50 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[13-Mar-2019 22:33:11 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[13-Mar-2019 22:33:11 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[13-Mar-2019 22:33:11 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[13-Mar-2019 22:33:11 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[13-Mar-2019 22:33:11 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[13-Mar-2019 22:34:32 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_pembimbing3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 299
+[13-Mar-2019 22:40:33 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 291
+[13-Mar-2019 22:41:11 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 291
+[13-Mar-2019 22:43:10 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 291
+[13-Mar-2019 22:45:02 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 291
+[13-Mar-2019 22:45:30 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 291
+[13-Mar-2019 22:46:06 Asia/Jakarta] PHP Notice:  Undefined variable: validIpk in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_uji_kelayakan.php on line 291
+[13-Mar-2019 23:06:21 Asia/Jakarta] PHP Notice:  Undefined variable: syarat in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 146
+[14-Mar-2019 00:39:14 Asia/Jakarta] PHP Notice:  Undefined index: fileToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 224
+[14-Mar-2019 00:39:14 Asia/Jakarta] PHP Notice:  Undefined index: fileToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 231
+[14-Mar-2019 00:39:14 Asia/Jakarta] PHP Notice:  Undefined index: fileToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 232
+[14-Mar-2019 00:39:14 Asia/Jakarta] PHP Notice:  Undefined index: fileToefl in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 254
+[14-Mar-2019 00:39:14 Asia/Jakarta] PHP Warning:  finfo_file(): Empty filename or path in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 254
+[14-Mar-2019 00:39:14 Asia/Jakarta] PHP Notice:  Undefined variable: errorTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 485
+[14-Mar-2019 00:46:36 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 267
+[14-Mar-2019 00:56:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 327
+[14-Mar-2019 00:56:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_skripsi.php on line 327
+[14-Mar-2019 01:10:47 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[14-Mar-2019 01:10:47 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[14-Mar-2019 01:10:47 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[14-Mar-2019 01:10:47 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[14-Mar-2019 01:10:47 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[14-Mar-2019 01:11:02 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[14-Mar-2019 01:11:02 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[14-Mar-2019 01:11:02 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[14-Mar-2019 01:11:02 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[14-Mar-2019 01:11:02 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[14-Mar-2019 20:53:53 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[14-Mar-2019 20:53:53 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[14-Mar-2019 20:53:53 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[14-Mar-2019 20:53:53 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[14-Mar-2019 20:53:53 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[14-Mar-2019 21:25:11 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 21:25:11 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 21:25:11 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 21:25:11 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 21:25:16 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 91
+[14-Mar-2019 22:40:24 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 22:40:24 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 22:40:24 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 22:40:24 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 22:40:27 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_skripsi in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 22:40:27 Asia/Jakarta] PHP Notice:  Undefined variable: tambah_nilai in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 99
+[14-Mar-2019 22:41:19 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_skripsi in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 22:41:48 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_skripsi in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 22:42:16 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_skripsi in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 22:42:53 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_skripsi in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 23:30:04 Asia/Jakarta] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 23:47:18 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:47:18 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:47:18 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:47:18 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:47:22 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 23:51:19 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:19 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:19 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:19 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:19 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 23:51:25 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:25 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:35 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:35 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:35 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:35 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:38 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:51:38 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:55:17 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:55:17 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:55:17 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:55:17 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:55:25 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 23:57:09 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:57:09 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:57:09 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:57:09 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:57:30 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 24
+[14-Mar-2019 23:58:35 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:58:35 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:59:17 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:59:17 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:59:18 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[14-Mar-2019 23:59:18 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:01:08 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:01:08 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:01:08 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:01:08 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:13:35 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:13:35 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:13:35 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:13:35 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:40:21 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:40:21 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:40:21 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:40:21 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:07 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:07 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:34 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:34 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:39 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:39 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:39 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:39 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:59 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:48:59 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:49:53 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[15-Mar-2019 00:49:53 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 60
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 122
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 164
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 194
+[16-Mar-2019 18:57:16 Asia/Jakarta] PHP Notice:  Undefined index: sip_status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/index.php on line 8
+[17-Mar-2019 20:06:24 Asia/Jakarta] PHP Notice:  Undefined variable: sukses in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/ubah_kadep.php on line 60
+[17-Mar-2019 20:06:24 Asia/Jakarta] PHP Notice:  Undefined variable: sukses in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/ubah_kadep.php on line 62
+[17-Mar-2019 20:06:24 Asia/Jakarta] PHP Notice:  Undefined variable: kadep in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/ubah_kadep.php on line 73
+[17-Mar-2019 20:06:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/ubah_kadep.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/ubah_kadep.php on line 73
+[17-Mar-2019 21:23:36 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[17-Mar-2019 21:23:36 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 21:23:36 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 21:23:36 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 21:23:36 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:01:46 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[17-Mar-2019 22:01:46 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:01:46 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:01:46 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:01:46 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 60
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 122
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 164
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 194
+[17-Mar-2019 22:10:42 Asia/Jakarta] PHP Notice:  Undefined index: sip_status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/index.php on line 8
+[17-Mar-2019 22:16:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_kelayakan_admin.php on line 109
+[17-Mar-2019 22:16:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/berita_acara_ujian_kelayakan_admin.php on line 109
+[17-Mar-2019 22:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[17-Mar-2019 22:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:20:16 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[17-Mar-2019 22:20:16 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:20:16 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:20:16 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:20:16 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:24:07 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[17-Mar-2019 22:24:07 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:24:07 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:24:07 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:24:07 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:25:39 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[17-Mar-2019 22:25:39 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:25:39 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:25:39 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:25:39 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:34:52 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[17-Mar-2019 22:34:52 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:34:52 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:34:52 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:34:52 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:36:15 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[17-Mar-2019 22:36:15 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:36:15 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[17-Mar-2019 22:36:15 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[17-Mar-2019 22:36:15 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[19-Mar-2019 09:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[19-Mar-2019 09:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[19-Mar-2019 09:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[19-Mar-2019 09:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[19-Mar-2019 09:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[19-Mar-2019 09:37:02 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[19-Mar-2019 09:37:02 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[19-Mar-2019 09:37:02 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[19-Mar-2019 09:37:02 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[19-Mar-2019 09:37:02 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[19-Mar-2019 09:45:37 Asia/Jakarta] PHP Notice:  Undefined variable: idlab in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_kelayakan.php on line 115
+[19-Mar-2019 09:45:37 Asia/Jakarta] PHP Notice:  Undefined variable: idlab in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_kelayakan.php on line 115
+[19-Mar-2019 09:45:37 Asia/Jakarta] PHP Notice:  Undefined variable: idlab in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_penguji_kelayakan.php on line 115
+[19-Mar-2019 09:50:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, boolean given in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 24
+[19-Mar-2019 09:50:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_uji_kelayakan.php on line 25
+[19-Mar-2019 09:51:40 Asia/Jakarta] PHP Notice:  Undefined property: mysqli_result::$id_uji_kelayakan in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_uji_kelayakan_lab.php on line 47
+[19-Mar-2019 09:56:46 Asia/Jakarta] PHP Notice:  Undefined variable: nilai_pembimbing_skripsi3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 59
+[19-Mar-2019 10:00:16 Asia/Jakarta] PHP Notice:  Undefined variable: nilai_pembimbing_skripsi3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 59
+[19-Mar-2019 10:00:50 Asia/Jakarta] PHP Notice:  Undefined variable: nilai_pembimbing_skripsi3 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/input_nilai_skripsi.php on line 59
+[19-Mar-2019 13:22:09 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[19-Mar-2019 13:22:09 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[19-Mar-2019 13:22:09 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[19-Mar-2019 13:22:09 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[19-Mar-2019 13:22:09 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[22-Mar-2019 05:20:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_admin.php on line 196
+[22-Mar-2019 09:22:12 Asia/Jakarta] PHP Notice:  Undefined variable: validKotaLahir in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/tambah_mahasiswa.php on line 114
+[22-Mar-2019 09:22:12 Asia/Jakarta] PHP Notice:  Undefined variable: validTanggalLahir in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/tambah_mahasiswa.php on line 118
+[22-Mar-2019 09:25:44 Asia/Jakarta] PHP Notice:  Undefined variable: validKotaLahir in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/tambah_mahasiswa.php on line 114
+[22-Mar-2019 09:25:44 Asia/Jakarta] PHP Notice:  Undefined variable: validTanggalLahir in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/tambah_mahasiswa.php on line 118
+[22-Mar-2019 10:56:18 Asia/Jakarta] PHP Notice:  Undefined variable: validJudul in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 429
+[22-Mar-2019 10:56:18 Asia/Jakarta] PHP Notice:  Undefined variable: validKrs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[22-Mar-2019 10:56:18 Asia/Jakarta] PHP Notice:  Undefined variable: krs in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 449
+[22-Mar-2019 10:56:18 Asia/Jakarta] PHP Notice:  Undefined variable: validTranskrip in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[22-Mar-2019 10:56:18 Asia/Jakarta] PHP Notice:  Undefined variable: mime in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/admin_pendaftaran_tr2.php on line 457
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 40
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 60
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 162
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 204
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/sidebar.php on line 234
+[24-Mar-2019 10:48:27 Asia/Jakarta] PHP Notice:  Undefined index: sip_status in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/index.php on line 8
+[25-Mar-2019 11:25:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_sidang_tr.php on line 664
+[25-Mar-2019 11:26:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_sidang_tr.php on line 664
+[25-Mar-2019 11:30:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_sidang_tr.php on line 664
+[25-Mar-2019 11:30:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_sidang_tr.php on line 664
+[25-Mar-2019 11:30:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_sidang_tr.php on line 664
+[25-Mar-2019 11:43:42 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id_uji_kelayakan in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_nilai_skripsi.php on line 202
+[25-Mar-2019 11:43:42 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id_uji_kelayakan in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_nilai_skripsi.php on line 202
+[25-Mar-2019 11:43:42 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id_uji_kelayakan in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/daftar_nilai_skripsi.php on line 202
+[25-Mar-2019 12:49:31 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[25-Mar-2019 12:49:33 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[25-Mar-2019 12:49:34 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[25-Mar-2019 12:49:34 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[25-Mar-2019 12:49:34 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:01:49 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:01:51 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:01:51 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:01:51 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:01:51 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:01:55 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:01:55 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:01:55 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:05:00 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 13:06:02 Asia/Jakarta] PHP Notice:  Undefined variable: nim in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/delete.php on line 25
+[28-Mar-2019 20:06:24 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_admin.php on line 28
+[28-Mar-2019 20:07:06 Asia/Jakarta] PHP Notice:  Undefined variable: idpetugas in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_admin.php on line 37
+[28-Mar-2019 20:10:04 Asia/Jakarta] PHP Notice:  Undefined variable: idpetugas in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_admin.php on line 37
+[28-Mar-2019 20:14:48 Asia/Jakarta] PHP Notice:  Undefined index: saveid in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_admin.php on line 20
+[28-Mar-2019 20:14:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/edit_admin.php on line 21
+[28-Mar-2019 21:09:11 Asia/Bangkok] PHP Notice:  Undefined index: nama_dosen in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_uji_kelayakan.php on line 389
+[28-Mar-2019 21:09:11 Asia/Bangkok] PHP Notice:  Undefined index: nama_dosen in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_uji_kelayakan.php on line 389
+[28-Mar-2019 21:53:55 Asia/Bangkok] PHP Notice:  Undefined index: nama_dosen in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_uji_kelayakan.php on line 389
+[28-Mar-2019 21:53:55 Asia/Bangkok] PHP Notice:  Undefined index: nama_dosen in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/lembar_penilaian_uji_kelayakan.php on line 389
+[12-Apr-2019 14:45:53 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[12-Apr-2019 14:45:53 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[12-Apr-2019 14:46:17 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
+[12-Apr-2019 14:46:17 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/kimiafsm/public_html/sitr2.kimia.fsm.undip.ac.id/dashboard/admin/autopopulate_input_nilai_skripsi.php on line 41
